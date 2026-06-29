@@ -35,12 +35,11 @@ A 5-page interactive Power BI dashboard analyzing patient data across 4 Nigerian
 ## 📸 Dashboard Preview
 
 <!-- Upload your screenshots first, then replace the filenames below -->
-![Executive Overview](executive-overview.png)
-![Patient Analysis](patient-analysis.png)
-![Financial Analysis](financial-analysis.png)
-![Treatment Analysis](treatment-analysis.png)
-![Doctor Performance](doctor-performance.png)
-
+![Healthcare Overview](HealthCare%20Performance.jpeg)
+![Patient Analysis](Patient%20Analysis.jpeg)
+![Financial Analysis](Finanicial%20Analysis.jpeg)
+![Treatment Analysis](Treatment%20Analysis.jpeg)
+![Doctor Performance](Doctors%20Performance.jpeg)
 ---
 
 ## 👤 Author
