@@ -1,35 +1,75 @@
-# 🏥 Healthcare Analytics Dashboard — Power BI
+# 🏥 Healthcare Analytics Dashboard – Power BI
 
-A 5-page interactive Power BI dashboard analyzing patient data across 4 Nigerian hospital branches, built to help hospital management monitor operations and make data-driven decisions.
+## 📖 Project Story
+Hospitals collect huge amounts of data every day, but leaders often struggle to turn those numbers into clear decisions.  
+This project analyzes **500 patient records across four Nigerian hospital branches** to uncover trends in patient demographics, treatment outcomes, financial performance, and doctor efficiency.  
 
----
+The dashboard helps hospital management answer questions like:
+- Which branch is performing best financially?
+- How efficient are doctors compared to patient outcomes?
+- Where are costs rising, and why?
 
-## 📊 Dashboard Pages
-
-| Page | Description |
-|------|-------------|
-| Executive Overview | High-level KPIs — total patients, revenue, and branch performance |
-| Patient Analysis | Demographics and visit trends across hospital locations |
-| Financial Analysis | Billing, payments, and revenue breakdown by branch and treatment type |
-| Treatment Analysis | Treatment efficiency and outcomes by department |
-| Doctor Performance | Individual doctor metrics for staffing and quality decisions |
+**Goal:** Use data to improve patient care while keeping hospital operations sustainable.
 
 ---
 
-## 📁 Dataset Summary
+## 🗂️ Dataset Information
+- Patients: 500  
+- Branches: 4  
+- Report Pages: 5  
 
-- **Patients:** 500
-- **Hospital Branches:** 4
-- **Report Pages:** 5
+**Data Dictionary**
+- Patient_ID → Unique identifier for each patient  
+- Age → Patient’s age in years  
+- Gender → Male/Female  
+- Branch → Hospital branch code (A, B, C, D)  
+- Treatment_Type → Type of treatment (Surgery, Consultation, Therapy, etc.)  
+- Treatment_Duration → Number of days/hours for treatment  
+- Revenue → Amount billed for treatment (₦)  
+- Doctor_ID → Unique identifier for attending doctor  
+- Outcome → Treatment result (Successful, Ongoing, Failed)  
+- Visit_Date → Date of patient’s hospital visit  
 
 ---
 
-## 🛠 Tools Used
+## 🎯 Key Performance Indicators (KPIs)
+- **Total Patients Served** → Shows how many people the hospital reached.  
+- **Revenue Generated** → Indicates the hospital’s financial health.  
+- **Average Treatment Cost** → Helps management see if care is affordable or too expensive.  
+- **Doctor Efficiency Score** → Balances how many patients a doctor sees with how successful their treatments are.  
 
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query
+---
 
+## 🔧 Process
+### Data Cleaning
+- Removed duplicate patient records  
+- Filled missing values in Age and Revenue  
+- Standardized branch codes (A, B, C, D)  
+- Created calculated columns for treatment duration and cost per patient  
+
+### Analysis Steps
+1. Patient demographics (age, gender)  
+2. Treatment outcomes across branches  
+3. Revenue trends and average treatment costs  
+4. Doctor performance by workload vs. success rate  
+
+---
+
+## 📊 Findings
+- **Branch B generated 40% of total revenue** → Driven by higher patient volume, suggesting their scheduling system is more efficient.  
+- **Average treatment cost is ₦50,000** → Branch D’s costs are higher due to specialized surgeries, raising affordability concerns.  
+- **Doctor efficiency varies widely** → Some doctors handle more patients but have lower success rates, which could affect patient trust.  
+
+---
+
+## 💡 Recommendations
+- Replicate **Branch B’s scheduling system** across other branches to improve throughput.  
+- Investigate **Branch D’s higher treatment costs** to ensure they’re justified by outcomes.  
+- Provide **training for doctors with lower efficiency scores** to balance workload and improve patient success rates.
+- ## ✅ Why This Matters
+This dashboard isn’t just about charts — it shows how **data can transform healthcare management**. By connecting numbers to real decisions, hospitals can improve patient outcomes, reduce costs, and make smarter choices for the future. 
+
+---
 ---
 
 ## 📸 Dashboard Preview
