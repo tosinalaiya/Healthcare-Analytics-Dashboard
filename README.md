@@ -72,15 +72,31 @@ This dashboard isn’t just about charts it shows how **data can transform healt
 ---
 ---
 
-<! -- 📷 Dashboard Snapshots  -->
+## 📷 Dashboard Snapshots
 
-![Healthcare Overview](HealthCare%20Performance.jpeg)
-![Patient Analysis](Patient%20Analysis.jpeg)
-![Financial Analysis](Financial%20Analysis.jpeg)
-![Treatment Analysis](Treatment%20Analysis.jpeg)
-![Doctor Performance](Doctors%20Performance.jpeg)
-![Key Insights](In.jpg)
-![Recommendations](in2.jpg)
+Here are the key pages from the Healthcare Analytics Dashboard:
+
+![Healthcare Overview](HealthCare%20Performance.jpeg)  
+*Executive overview of hospital performance across all branches.*
+
+![Patient Analysis](Patient%20Analysis.jpeg)  
+*Breakdown of patient demographics and visit trends.*
+
+![Financial Analysis](Financial%20Analysis.jpeg)  
+*Revenue and cost analysis across branches.*
+
+![Treatment Analysis](Treatment%20Analysis.jpeg)  
+*Treatment outcomes and average duration by type.*
+
+![Doctor Performance](Doctors%20Performance.jpeg)  
+*Doctor workload and efficiency scores.*
+
+![Key Insights](In.jpg)  
+*Summary of the most important findings.*
+
+![Recommendations](in2.jpg)  
+*Actionable recommendations based on the analysis.*
+
 
 ![Healthcare Overview](HealthCare%20Performance.jpeg)  
 *Executive overview of hospital performance across all branches.*
