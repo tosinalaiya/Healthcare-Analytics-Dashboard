@@ -64,10 +64,10 @@ The dashboard helps hospital management answer questions like:
 
 ## 💡 Recommendations
 - Replicate **Branch B’s scheduling system** across other branches to improve throughput.  
-- Investigate **Branch D’s higher treatment costs** to ensure they’re justified by outcomes.  
+- Investigate **Branch D’s higher treatment costs** to ensure they are justified by outcomes.  
 - Provide **training for doctors with lower efficiency scores** to balance workload and improve patient success rates.
 - ## ✅ Why This Matters
-This dashboard isn’t just about charts — it shows how **data can transform healthcare management**. By connecting numbers to real decisions, hospitals can improve patient outcomes, reduce costs, and make smarter choices for the future. 
+This dashboard isn’t just about charts it shows how **data can transform healthcare management**. By connecting numbers to real decisions, hospitals can improve patient outcomes, reduce costs, and make smarter choices for the future. 
 
 ---
 ---
