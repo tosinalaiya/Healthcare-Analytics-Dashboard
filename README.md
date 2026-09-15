@@ -83,7 +83,7 @@ Here are the key pages from the Healthcare Analytics Dashboard:
 *Breakdown of patient demographics and visit trends.*
 
 ![Financial Analysis](Financial%20Analysis.jpeg)  
-*Comprehensive overview of revenue, treatment costs, and patient distribution across departments and branches.*
+*Comprehensive overview of revenue, treatment costs, and patient distribution across departments and hospital branches.*
 
 ![Treatment Analysis](Treatment%20Analysis.jpeg)  
 *Treatment outcomes and average duration by type.*
@@ -96,6 +96,7 @@ Here are the key pages from the Healthcare Analytics Dashboard:
 
 ![Recommendations](in2.jpg)  
 *Actionable recommendations based on the analysis.*
+
 
 
 
