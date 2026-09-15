@@ -64,12 +64,9 @@ The dashboard helps hospital management answer questions like:
 
 ## 💡 Recommendations
 - Replicate **Branch B’s scheduling system** across other branches to improve throughput.  
-- Investigate **Branch D’s higher treatment costs** to ensure they are justified by outcomes.  
-- Provide **training for doctors with lower efficiency scores** to balance workload and improve patient success rates.
-- ## ✅ Why This Matters
-This dashboard isn’t just about charts it shows how **data can transform healthcare management**. By connecting numbers to real decisions, hospitals can improve patient outcomes, reduce costs, and make smarter choices for the future. 
+- Investigate **Branch D’s higher treatment costs** to ensure they’re justified by outcomes.  
+- Provide **training for doctors with lower efficiency scores** to balance workload and improve patient success rates.  
 
----
 ---
 
 ## 📷 Dashboard Snapshots
@@ -97,11 +94,7 @@ Here are the key pages from the Healthcare Analytics Dashboard:
 ![Recommendations](in2.jpg)  
 *Actionable recommendations based on the analysis.*
 
-
-
-
-![Healthcare Overview](HealthCare%20Performance.jpeg)  
-*Executive overview of hospital performance across all branches.*
+---
 
 ## 🌍 Impact
 This project shows how analytics can improve healthcare management by reducing costs, improving doctor efficiency, and enhancing patient outcomes. It highlights not just technical skills, but the ability to turn data into real decisions.
@@ -109,7 +102,6 @@ This project shows how analytics can improve healthcare management by reducing c
 ---
 
 ## 👤 Author
-
 **Oluwatosin Babatunde Alaiya**  
-Data Analyst — Power BI · Excel · SQL · Python  
+Data Analyst – Power BI • Excel • SQL • Python  
 [GitHub](https://github.com/tosinalaiya) · [Upwork](https://upwork.com/freelancers/tosinalaiya)
