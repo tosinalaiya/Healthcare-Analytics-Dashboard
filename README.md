@@ -72,16 +72,22 @@ This dashboard isn’t just about charts it shows how **data can transform healt
 ---
 ---
 
-## 📸 Dashboard Preview
+<! -- 📷 Dashboard Snapshots  -->
 
-<!-- Upload your screenshots first, then replace the filenames below -->
 ![Healthcare Overview](HealthCare%20Performance.jpeg)
 ![Patient Analysis](Patient%20Analysis.jpeg)
-![Financial Analysis](Finanicial%20Analysis.jpeg)
+![Financial Analysis](Financial%20Analysis.jpeg)
 ![Treatment Analysis](Treatment%20Analysis.jpeg)
 ![Doctor Performance](Doctors%20Performance.jpeg)
 ![Key Insights](In.jpg)
 ![Recommendations](in2.jpg)
+
+![Healthcare Overview](HealthCare%20Performance.jpeg)  
+*Executive overview of hospital performance across all branches.*
+
+## 🌍 Impact
+This project shows how analytics can improve healthcare management by reducing costs, improving doctor efficiency, and enhancing patient outcomes. It highlights not just technical skills, but the ability to turn data into real decisions.
+
 ---
 
 ## 👤 Author
